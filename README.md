@@ -13,7 +13,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) application designed to help 
 ### Interface Preview
 
 <p align="center">
-  <img src="malaysian%20Legal%20AI/picture/Streamlit_example.png" width="900">
+  <img src="malaysian%20Legal%20AI/picture/Streamlit_example.png" width="800">
 </p>
 
 ### Key Features
