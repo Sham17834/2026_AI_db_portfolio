@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_chroma import Chroma 
-from langchain_community.chains import RetrievalQA
+from langchain_classic.chains import RetrievalQA
 from pydantic import SecretStr
 
 # Load the environment variables from the .env file
