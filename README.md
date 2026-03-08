@@ -4,9 +4,17 @@ This repository contains a collection of projects designed to solve real-world M
 
 ---
 
+### Tech Stack
+
 ## Project 1: Malaysia Labor Law AI (RAG System)
 
 An AI-powered Retrieval-Augmented Generation (RAG) application designed to help HR professionals and employees navigate the **Employment Act 1955** (including 2022 amendments).
+
+### Interface Preview
+
+<p align="center">
+  <img src="malaysian%20Legal%20AI/picture/Streamlit_example.png" width="900">
+</p>
 
 ### Key Features
 
@@ -14,9 +22,6 @@ An AI-powered Retrieval-Augmented Generation (RAG) application designed to help 
 * **Vector Search:** Uses `ChromaDB` and `HuggingFace` embeddings for semantic retrieval.
 * **AI Reasoning:** Powered by `Llama-3.3-70b` via Groq for high-speed, legally-grounded responses.
 * **Interactive UI:** A clean `Streamlit` interface for natural language querying.
-
-### Tech Stack
-
 * **LLM:** Groq (Llama-3.3-70b-versatile)
 * **Orchestration:** LangChain
 * **Vector DB:** ChromaDB
